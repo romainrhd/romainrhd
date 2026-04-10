@@ -3,5 +3,5 @@
 I'm a fullstack developer passionate by the new technologies from France 🇫🇷
 
 ### About me
-- 💼 Lead developer at [Outlined](https://outlined.io/)
+- 💼 Lead developer at Linkt
 - ❤️ I love writing code with Laravel and Vue
